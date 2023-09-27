@@ -18,12 +18,13 @@ This is a web app that allows users to check the current weather for a location 
 ## Installation and how to Run
 1. Clone the repository or download the zip file.
 
-    git clone 
 
+      git clone :https://github.com/Alex-gikungu/Weather_app.git
+ 
 
 2. Open the directory in a code editor.
 
-    cd 
+      cd weather_app
 
 3. Update the YOUR_API_KEY placeholder in the script.js file with your weather API key.
 4. Open the index.html file in a web browser.
