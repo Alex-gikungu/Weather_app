@@ -1,5 +1,6 @@
-const apiKey = 'e14da42f2a3c4db3bee125421232709';  
+const apiKey = "API_KEY";  
 const apiUrl = 'https://api.weatherapi.com/v1/current.json';
+
 
 const locationInput = document.querySelector('#location');
 const weatherDisplay = document.querySelector('#weather-display');
