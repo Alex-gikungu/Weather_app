@@ -22,9 +22,12 @@ This is a web app that allows users to check the current weather for a location 
       git clone :https://github.com/Alex-gikungu/Weather_app.git
  
 
+
 2. Open the directory in a code editor.
 
+
       cd weather_app
+
 
 3. Update the YOUR_API_KEY placeholder in the script.js file with your weather API key.
 4. Open the index.html file in a web browser.
@@ -32,6 +35,7 @@ This is a web app that allows users to check the current weather for a location 
 6. The app will display the current weather conditions for the specified location.
 
 ## Troubleshooting
+
 If you are getting a 404 error, it means that the weather API is not able to find the city that you are searching for. This could be because the city does not exist, or because you have misspelled the city name.
 
 To fix this problem, you can try the following:
@@ -41,6 +45,7 @@ To fix this problem, you can try the following:
 - Use a different weather API.
 
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
