@@ -1,0 +1,52 @@
+   /* body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #location {
+    width:500px;
+    margin-left: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+  }
+  
+  #get-weather {
+    width:10%;
+    padding: 10px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    font-size: large;
+    border-radius: 4px;
+    background-color: blue;
+    color: white;
+  }
+  
+  #weather-display {
+    margin-top: 20px;
+    text-align: center;
+  }
+  @media (max-width: 576px) {
+    body {
+      width: 100%;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+    h2 {
+      font-size: 18px;
+    }
+  
+    p {
+      font-size: 14px;
+    }
+    #weather-display {
+      width: 100%;
+      margin-top: 20px;
+    }
+    
+  } */
