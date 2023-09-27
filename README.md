@@ -6,7 +6,7 @@ This is a web app that allows users to check the current weather for a location 
 - Html
 - Javascript
 - Css
-- Api 
+- Weather Api 
 
 ## Features
 
