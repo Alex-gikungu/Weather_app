@@ -44,5 +44,5 @@ To fix this problem, you can try the following:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Github:Alex-gikungu
-Email:alexigikungu.012@gmail.com
+1. Github:Alex-gikungu
+2. Email:alexigikungu.012@gmail.com
