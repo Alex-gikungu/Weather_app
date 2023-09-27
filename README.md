@@ -1,4 +1,4 @@
-<!-- # Weather Web App
+# Weather Web App
 
 This is a web app that allows users to check the current weather for a location by making asynchronous requests (AJAX) to a weather API. The app displays weather data in a user-friendly format and handles error cases gracefully.
 
@@ -39,4 +39,9 @@ To fix this problem, you can try the following:
 - Try searching for the city by its ZIP code instead of its name.
 - Use a different weather API.
 
-## License -->
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Author
+Github:Alex-gikungu
+Email:alexigikungu.012@gmail.com
